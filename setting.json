@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"DEFIRDAUS SOCIAL",
+  "author":"DEFIRDAUS",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.sciencedaily.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
