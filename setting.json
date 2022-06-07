@@ -1,8 +1,8 @@
 {
-  "name-web":"DEFIRDAUS SOCIAL",
-  "author":"DEFIRDAUS",
+  "name-web":"ANIME EXPO",
+  "author":"ANIME EXPO",
   "remove-comment-html":true,
-  "target":"https://www.sciencedaily.com",
+  "target":"https://www.anime-expo.org/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
